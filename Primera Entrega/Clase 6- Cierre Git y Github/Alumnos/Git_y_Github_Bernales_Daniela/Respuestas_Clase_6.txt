@@ -1,0 +1,5 @@
+1. Linus Torbalds.
+
+2. A Microsoft, para demostrar su compromiso con el Open Source.
+
+3. Si, con Github Desktop, con una interfaz gráfica y con el Live Server de VSCode o enlazando la cuenta de VSCode con Github.
