@@ -1,0 +1,14 @@
+Comandos mas utilizados: 
+
+pwd: muestra el nombre de la carpeta en la que estamos
+
+Cambiar de carpeta:
+cd: cambia la carpeta
+cd /
+Si queremos ir a un directorio en concreto:
+cd mi_directorio/otro_directorio
+
+Para ir al directorio anterior:
+cd ..
+ls:nos muestra qué hay en la carpeta
+ls -R : 
