@@ -1,0 +1,16 @@
+git init : inicializa un repositorio en local
+git config user.name "nombre usuario": le asigna el nombre de usuario
+git config user.mail "mail": asigna el mail asociado a github
+git add .: Agrega todos los archivos al seguimiento (staging area)
+git add "nombre_archivo": agrega el archivo al seguimiento (staging area)
+git commit -m "mensaje": confirma los archivos agregados
+git status: muestra el estado de los archivos
+git log: muestra las confirmaciones (commits)
+git remote add origin "URL del repositorio": vincula el repositorio local al de la nube
+git clone "URL del repositorio": copia un repositorio remoto existente y lo vincula a un repositorio local
+git push origin main: Sube los cambios commiteados al repositorio remoto
+git pull origin main: Baja al repositorio local lo que se encuentra en el remoto
+git branch "nombre_rama": crea una nueva rama en el repositorio
+git checkout "nombre_rama": me muevo a la rama indicada
+git checkout -b "nombre_rama": si la rama no existe la crea y nos posiciona en ella
+

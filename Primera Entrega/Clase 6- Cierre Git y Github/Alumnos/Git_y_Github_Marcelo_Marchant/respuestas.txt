@@ -1,0 +1,5 @@
+1.- Fue creado por Linus Torvalds para mantener un sistema de control de versiones de código abierto.
+
+2.- Desde junio de 2018 pertenece a Microsoft, porque 7500 millones de dolares pueden convencer a cualquiera de vender.
+
+3.- Desde VSCode se puede trabajar y al hacerlo de forma visual es más fácil
