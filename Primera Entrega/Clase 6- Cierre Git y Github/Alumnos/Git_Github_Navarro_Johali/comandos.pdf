@@ -1,0 +1,17 @@
+git config user.name "nombre del usuario" =  Establecer el usuario
+git config user.email "nombre del email del usuario" =  Establecer el email del usuario
+git init = Crear un nuevo repositorio
+git status = Muestra el estado de los archivos en su repositorio
+git add . = Añadir todos los archivos
+git add "nombre del archivo" = Añadir el archivo especifico
+git commit -m = Commitear un archivo/directorio
+git rm "nombre del archivo" = Remover un archivo
+git rm -r "nombre del directorio" = Remover el directorio y los archivos que contiene
+git log = Muestra el historial
+git remote add origin "link de github" = Enlaza el repositorio local con un repositorio remoto
+git push origin main = Envia los cambios al repositorio remoto (Subir)
+git pull origin main = Actualiza el proyecto de github (Bajar)
+git clone "link de gibhub" = Clonar un repositorio existente
+git branch "nombre nueva branch" = Crea una nueva branch
+git checkout "nombre de branch" = cambia a la branch
+git checkout -b = Crea una nueva branch y apunta hacia ella
