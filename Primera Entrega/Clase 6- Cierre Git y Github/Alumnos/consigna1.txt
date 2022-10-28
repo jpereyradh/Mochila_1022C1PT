@@ -1,0 +1,3 @@
+a)Linus Torvald creo el sistema de gestion de versiones para tener ordenandas la documentacion del software
+b)Microsoft asi controla la comunidad mas grande de desarrolladores
+c)Si, existen una aplicacion web y otros formatos para utilizar github 
