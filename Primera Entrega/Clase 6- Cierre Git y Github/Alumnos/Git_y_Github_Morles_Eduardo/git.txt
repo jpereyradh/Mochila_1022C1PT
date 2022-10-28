@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+
+
+	a. ¿Quién inventó el sistema de control de versión Git y por qué?
+	R= Inventado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. 
+
+	b. ¿A quién pertenece actualmente Github y por qué?
+
+	Github pertenece a Microsoft, a fin de hacerse con el mayor repositorio de desarrolladores: mas de 27 millones de usuarios. 
+
+	c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, existen una amplia gama de aplicaciones para trabajar con Github, entre las que están:
+
+Linux:
+
+* QGit
+* Gitg
+* Git Force
+
+Windows:
+
+* Sourcetree
+* GitHub
+* Tortoise Git
+
+Clientes Git para Mac
+
+* GitUp
+* GitBox
+* GitX-dev
+
+Clientes Git multiplataforma
+
+* GitKraken
+* SmartGit
+* Git Cola
+* Aurees
+
+
+
