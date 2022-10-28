@@ -2,13 +2,99 @@ Comandos mas utilizados:
 
 pwd: muestra el nombre de la carpeta en la que estamos
 
+crear 
+archivos: touch nombreArchivo.txt
+carpetas: mkdir nombrecarpeta
+
 Cambiar de carpeta:
 cd: cambia la carpeta
-cd /
-Si queremos ir a un directorio en concreto:
-cd mi_directorio/otro_directorio
+cd mi_directorio/otro_directorio :ir a un directorio específico
+cd ../ :Para ir al directorio anterior:
 
-Para ir al directorio anterior:
-cd ..
+Para listar mis archivos
 ls:nos muestra qué hay en la carpeta
-ls -R : 
+ls -R :nos muestra todas las carpetas
+
+renombrar 
+mv : ruta/archivo1  ruta/archivo2 : renombra archivo 1 como archivo 2(archivo2 no debe existir o será sobreescrito)
+mv : ruta/carpeta1  ruta/carpeta2 : renombra carpeta como carpeta 2(carpeta 2 no debe existir o será sobresecrita)
+
+mover:
+mv: ruta/carpeta1  ruta/carpeta2 :  mueve contenido de carpeta a carpeta 2
+
+copiar 
+cp: ruta/archivo1  ruta/archivo2  copia un archivo o una carpeta
+
+borrar 
+rm archivo: borra un archivo
+rm -r: borra directorio y todos sus archivos
+rmdir: borrar directorio vacío
+
+limpiar pantalla
+Clear
+
+ayuda
+comando --help
+
+
+Git
+git init: crea un repositorio local
+
+git config user.name : crea nombre de usuario (autor commits)
+git config user.email: crea email de usuario
+
+para que quede siempre
+git config --global user.name “nombreUsuario”
+git config --global user.email “nombreUsuario@gmail.com”
+
+agregar
+git add nombrearchivo: agregar un archivo al repositorio 
+git add. :agrega todos los archivos del prepositorio
+
+consultar estado de archivos
+git status: saber en qué estado está el archivo
+
+confirmar archivos:
+ git commit -m "mi primer comit" (este archivo debe haberse agregado previamente)
+
+ historial de commits: git log
+
+ crear un repositorio en github
+ vamos a nuestro github y luego nuevo repositorio
+
+ vincular nuestro repositorio:
+ git remote add origin https://github.com/veronicajujuy/nuevo-repositorio.git
+
+ confirmar la vinculación
+ git remote -v 
+
+ subir archivos al repositorio remoto
+ git push origin main (Sólo se subirá lo previamente agregado y comiteado)
+(nos pedirá usuario y contraseña, ponemos usuario y token)
+
+ actualizar archivos del repositorio remoto
+ git push origin main
+
+clonar un repositorio remoto:
+git clone url-repositorio
+
+crear ramas
+git branch ramaNueva
+
+enumerar ramas 
+git branch <ramaNueva>
+
+crear una nueva rama 
+git branch -d <branch>
+
+Elimina una rama
+git branch -D <branch>: 
+
+movernos entre ramas
+git checkout <nombre_rama>
+
+subir cambios a otra rama 
+git push origin <branch>
+
+fusionar 2 ramas
+git merge branch
