@@ -84,10 +84,9 @@ git branch ramaNueva
 enumerar ramas 
 git branch <ramaNueva>
 
-crear una nueva rama 
+elimina una rama 
 git branch -d <branch>
-
-Elimina una rama
+Elimina una rama de forma forzoza
 git branch -D <branch>: 
 
 movernos entre ramas
