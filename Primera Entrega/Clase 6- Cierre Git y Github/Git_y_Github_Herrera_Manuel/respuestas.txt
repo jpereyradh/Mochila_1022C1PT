@@ -1,0 +1,5 @@
+A) Linus Torvalds el creador de Linux para tener una plataforma open source y llevar de mejor forma el control de desarrollo del kernel.
+
+B) A Microsoft para demostrar su compromiso con el Open source
+
+C) Existe Github en version escritorio asi que la respuesta es sí.
