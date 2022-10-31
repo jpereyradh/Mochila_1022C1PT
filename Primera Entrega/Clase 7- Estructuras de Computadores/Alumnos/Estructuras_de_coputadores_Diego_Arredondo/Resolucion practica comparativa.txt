@@ -1,0 +1,23 @@
+Práctica comparativa
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda.
+En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior,
+nos envió de regalo tres procesadores para nuestras diferentes necesidades, yo (Matilda) le
+pedí uno para poder jugar al tan esperado Cyberpunk 2077, mi pequeño hermano, Marcelo,
+en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, por último, mi
+hermano mayor le encargó uno para poder hacer ediciones de video en un programa
+llamado Wondershare Filmora X.
+Estamos confundidos debido a que no los etiqueto con nombres…
+Nuestro padre nos envió los siguientes procesadores:
+● Amd Ryzen 5 3600
+● Amd a8 9600
+● intel i3 3230
+¿Cuál es para cada uno?
+
+Para que Matilda pueda correr el cyberpunk, se requiere el procesador ryzen 5 3600. Esto es debido a que posee la mayor capacidad de todos, y mas nucleos.
+Es importante resaltar que para que pueda funcionar el juego correctamente necesita una GPU que sea capaz de procesarlo.
+
+Para el hermano mayor y pueda usar Wondershare Filmora, seria ideal el a8 9600 debido a que posee una GPU integrada que permite procesar los videos.
+Ademas este procesador es del año 2016 y posee 4 nucleos. 
+
+Para Marcelo, quien no necesita demasiados recursos para que pueda hacer funcionar office, lo mejor es el i3 3230 ya que es el procesador con menor rendimiento
+de los 3, y es mas antiguo (2012) y con menos nucleos (2 nucleos). Pero office no necesita tanto recursos asi que no existira problema.
