@@ -14,4 +14,4 @@ Además, hay otro motivo de peso: Microsoft Azure. En plena explosión de cloud 
 
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
-R= Sinutilizando el interfaz del mismo GiTHub.
+R= Si utilizando el interfaz del mismo GiTHub.
