@@ -1,0 +1,3 @@
+Respuesta 1: El sistema de control de versión Git fue creado por Linus Torvalds. Lo hizo para poder gestionar los distintos cambios que se producían en el Kernel de Linux.
+Respuesta 2: En la actualidad GitHub pertenece a Microsoft (fue adquirida hace 4 años atrás). La compra se produjo ya que en ese momento el foco era el desarrollo de software open-source y la compra de GitHub atraería a muchos desarrolladores y distintas audiencias.
+Rspuesta 3:  si
