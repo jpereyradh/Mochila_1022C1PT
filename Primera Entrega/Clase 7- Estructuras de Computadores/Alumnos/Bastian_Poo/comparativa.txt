@@ -1,0 +1,9 @@
+AMD Ryzen 5 3600 ---> Matilda, ya que el juego requiere mucha potencia, por otro lado,
+matilda necesitara de una targeta grafica de alto rendimiento, para disfrutar de su tiempo
+de ocio (Jugar sin que se crachee)
+
+AMD a8 9600 ---> Hermano mayor, ya que requerira de multiprocesos de rendereo, a su vez, 
+el uso de una GPU dedicada hara mas armonico el uso de dicha aplicacion
+
+Intel i3 3230 ---> Para Marcelo, ya que el uso de Office, no requerira un rendimiento
+alto (si es uso comun)
