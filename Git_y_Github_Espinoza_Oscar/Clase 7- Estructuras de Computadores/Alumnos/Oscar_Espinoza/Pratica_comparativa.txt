@@ -1,0 +1,8 @@
+Para que Matilda pueda correr el cyberpunk, se requiere el procesador ryzen 5 3600. Esto es debido a que posee la mayor capacidad de todos, y mas nucleos.
+Es importante resaltar que para que pueda funcionar el juego correctamente necesita una GPU que sea capaz de procesarlo.
+
+Para el hermano mayor y pueda usar Wondershare Filmora, seria ideal el a8 9600 debido a que posee una GPU integrada que permite procesar los videos.
+Ademas este procesador es del año 2016 y posee 4 nucleos. 
+
+Para Marcelo, quien no necesita demasiados recursos para que pueda hacer funcionar office, lo mejor es el i3 3230 ya que es el procesador con menor rendimiento
+de los 3, y es mas antiguo (2012) y con menos nucleos (2 nucleos). Pero office no necesita tanto recursos asi que no existira problema.
