@@ -1,0 +1,18 @@
+De los 15 juegos solo podríamos agregar 13 por la capacidad de memoria y serían:
+Juego
+Mario Kart 8 Deluxe:                     7168 MB (7.168 GB)
+Snipperclips: Cut it Out, Together:               1,60 GB
+Disgaea 5:                                        5,92 GB
+Puyo Puyo Tetris:                                 1,09 GB
+I Am Setsuna:                                     1,40 GB
+Nobunaga’s Ambition:                              5 GB
+Air Conflicts: Secret Wars :         1572864 KB  (1.572864 GB)
+Air Conflicts: Pacific Carriers:                  1,4 GB
+Block-a-Pix Deluxe:                     84,0 MB   (0.084 GB)
+Cuphead:                                          3,3 GB
+Gems of War:                             458 MB   (0.458 GB)
+Inferno Climber: Reborn:                          1,7 GB
+Istanbul: Digital Edition:               330 MB   (0.339 GB)
+
+                                       TOTAL GB: 31.031864
+ 
