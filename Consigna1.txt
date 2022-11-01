@@ -1,4 +1,0 @@
-a)Linus Torvalds creo el sistema de control de version para gestionar las distintas versiones de un sotware en una linea de tiempo
-b)Microsoft es dueño de github, porque asi tiene el control de la comunidad de desarrolladores mas grande del mundo
-c)Se puede trabajar desde la version de escritorio, sin emabrgo igual deben ingresar linea de comandos en la terminal.
-
