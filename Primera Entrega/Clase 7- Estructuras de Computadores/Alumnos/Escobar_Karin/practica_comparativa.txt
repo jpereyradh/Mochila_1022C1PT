@@ -1,0 +1,16 @@
+1. Para Marcelo 
+Intel i3 3230
+2 núcleos.
+Frecuencia básica del procesador 3,30 GHz.
+
+2. Para Matilda, Cyberpunk 2077 
+Amd a8 9600
+4 núcleos / 4 hilos
+
+3. Hermano mayor 
+Adm Ryzen 5 3600 
+6 núcleos / 12 hilos
+Caché
+6 x 512KB L2 / 2 x 16MB L3
+Socket
+AM4
