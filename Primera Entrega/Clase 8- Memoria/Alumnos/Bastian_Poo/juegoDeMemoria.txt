@@ -1,0 +1,29 @@
+
+<---SE INSTALAN--->
+
+Bound By Flame ---> 5.200 MB ---> 5,07GB  
+Diablo III ---> 41 GB   
+DriveClub ---> 28,86 GB
+Flower --->18.000 MB --->17,58GB 
+Infamous: Second Son ---> 0.023438 Terabytes ---> 24GB 
+Killzone: Shadow Fall SP --->38,5 GB 
+Knack ---> 35,6 GB 
+MLB 14 The Show ---> 37,5 GB 
+resogun ---> 460.800 kb ---> 0,44gb 
+Trine 2: Complete Story ---> 2.760 MB ---> 2,69GB 
+Assassin's Creed IV: Black Flag --->21,2 GB 
+Don't Starve ---> 609 MB ---> 0,6GB 
+
+>>> TOTAL = 253,04 GB
+
+-------------------------------------------------------
+
+<--NO SE INSTALAN (SOBREPASA LOS GB)-->
+
+Battlefield 4 ---> 41,85 GB
+The Last of Us ---> 48,11 GB
+Call of Duty: Ghosts ---> 49 GB
+
+-------------------------------------------------------
+
+MAX ---> 256
