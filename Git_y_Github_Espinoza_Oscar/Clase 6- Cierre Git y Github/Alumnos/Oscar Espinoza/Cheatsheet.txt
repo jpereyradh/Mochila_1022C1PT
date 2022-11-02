@@ -1,0 +1,14 @@
+git init - Iniciar Git
+git —version - Saber la version que tengo fe git
+git config user.name “name user” - Colocar el nombre de usuario de github
+git config user.name - Ver nombre de usuario
+git config user.email “correo” - Ingresar correo
+git config user.email - Verificar el correo
+git config —global user.name o user.email - Ingresar de manera global
+
+
+git add - Indica cuales son los archivos que voy agregar
+git status- Indica es estatus de los archivos del repositorio
+
+git commit -m “message” - Poder hacer un commit, el mensaje debe incluir lo que se hizo
+git log - Muestra el historial de los commits
