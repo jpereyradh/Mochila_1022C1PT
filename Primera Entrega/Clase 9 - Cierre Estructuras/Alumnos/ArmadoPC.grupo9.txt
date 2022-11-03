@@ -1,0 +1,85 @@
+GAMA BAJA INTEL
+
+Proce: Core i3 7100
+MB: Gigabyte H310m
+Memoria Principal: Hikvision Urien HKED4081CBA1D0ZA1/8G  1x8gb
+Memoria secundaria: Hikvision C100 240 GB
+_________________________________________
+
+GAMA BAJA AMD
+
+Proce: Ryzen 3 2200G
+MB: MSI A320M-A PRO MAX
+Memoria Principal: Hikvision Urien HKED4081CBA1D0ZA1/8G  1x8gb
+Memoria secundaria: Hikvision C100 240 GB
+__________________________________________
+
+GAMA BAJA OTROS
+
+Proce: AMD Ryzen 5 4600G
+MB: asus prime a320m-k
+Memoria Principal: Hikvision Urien HKED4081CBA1D0ZA1/8G  1x8gb
+Memoria secundaria: Hikvision C100 240 GB
+
+
+______________
+
+
+
+GAMA MEDIA INTEL
+
+Proce: Intel Core i5-10400F
+MB: MSI H510M-A PRO
+Memoria Principal: Patriot Viper Steel PVS48G320C6 DDR4-3200  2x8gb
+Memoria secundaria: Crucial BX500 1 TB
+GPU: GeForce GT 1030 2GD4 LP OC
+___________________________________________
+
+GAMA MEDIA AMD
+
+Proce: AMD Ryzen 5 3600
+MB: A320M Asrock
+Memoria Principal: Patriot Viper Steel PVS48G320C6 DDR4-3200  2x8gb
+Memoria secundaria: Crucial BX500 1 TB
+GPU: ASRock PULSE AMD Radeon RX 6400
+____________________________________________
+
+GAMA MEDIA OTROS
+
+Proce: AMD Ryzen 5 3600
+MB: ASRock B450M Steel Legend
+Memoria Principal: Patriot Viper Steel PVS48G320C6 DDR4-3200  2x8gb
+Memoria secundaria: Crucial BX500 1 TB
+GPU: EVGA GeForce GTX 1660 SC ULTRA GAMING
+
+
+_______________
+
+
+
+GAMA ALTA INTEL
+
+Proce: Core i7-10700
+MB: Gigabyte Z490 AORUS ULTRA
+Memoria Principal: Patriot Viper Steel PVS432G300C6K  2x16gb
+Memoria secundaria: M2 - Crucial P2 500 GB + SSD - Crucial BX500 1 TB 
+GPU: Gigabyte GeForce RTX 3070 VISION OC 8G
+______________________________________________
+
+GAMA ALTA AMD
+
+Proce: Amd Ryzen 7 3800xt
+MB: Gigabyte B450 AORUS PRO WIFI
+Memoria Principal: Patriot Viper Steel PVS432G300C6K  2x16gb
+Memoria secundaria: M2 - Crucial P2 500 GB + SSD - Crucial BX500 1 TB 
+GPU: ASUS ROG-STRIX-RX6700XT-O12G-GAMING
+_______________________________________________
+
+GAMA ALTA OTROS
+
+Proce: AMD Ryzen 9 7950X
+MB: ASRock X670E Taichi
+Memoria Principal: Kingston Fury Beast RGB KF556C40BBA-8 DDR5  2x16gb
+Memoria secundaria: M2 - Crucial P2 500 GB + SSD - Crucial BX500 1 TB 
+GPU: Zotac GAMING GeForce RTX 4090 Trinity OC
+
