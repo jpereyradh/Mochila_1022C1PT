@@ -1,0 +1,78 @@
+-------------------------------------------
+Gama baja - Intel
+
+Procesador: Core i3 7100
+Placa madre: ECS H61H2-M2
+Memoria pincipal: G.Skill F3-10666CL9S-4GBSQ (1 x 4GB | SO-DIMM DDR3-1333)
+Memoria secundaria: Toshiba 500 GB (MQ01ABF050)
+-------------------------------------------
+-------------------------------------------
+Gama baja - AMD
+
+Procesador: Ryzen 3 2200g
+Placa madre: MSI A320M-A PRO MAX
+Memoria principal:Crucial CB8GS2666
+Memoria secundaria: Western Digital Green SN350 240 GB (WDS240G2G0C)
+-------------------------------------------
+-------------------------------------------
+Gama baja
+
+Procesador:Intel Celeron G4930 [BX80684G4930]
+Placa madre: ASRock B360M/OEM
+Memoria principal: Hikvision S1 HKED4042BBA1D0ZA1
+Memoria secundaria: Seagate Laptop Thin 500 GB (ST500LM021)
+-------------------------------------------
+-------------------------------------------
+Gama media - Intel
+
+Procesador: Intel Core i5-10400F
+Placa madre: MSI H510M-A PRO
+Memoria principal: Patriot Viper Steel PVS48G320C6 DDR4-3200  2x8gb
+Memoria secundaria: Crucial BX500 1 TB
+GPU: GeForce GT 1030 2GD4 LP OC
+-------------------------------------------
+-------------------------------------------
+Gama media - AMD
+
+Procesador: AMD Ryzen 5 3600
+Placa madre: A320M Asrock
+Memoria principal: Patriot Viper Steel PVS48G320C6 DDR4-3200  2x8gb
+Memoria secundaria:Crucial BX500 1 TB
+GPU: ASRock PULSE AMD Radeon RX 6400
+-------------------------------------------
+-------------------------------------------
+Gama media 
+
+Procesador:AMD Ryzen 5 3600
+Placa madre: ASRock B450M Steel Legend
+Memoria principal: Patriot Viper Steel PVS48G320C6 DDR4-3200  2x8gb
+Memoria secundaria: Crucial BX500 1 TB
+GPU: EVGA GeForce GTX 1660 SC ULTRA GAMING
+-------------------------------------------
+-------------------------------------------
+Gama alta - Intel
+
+Procesador: core i7 10700
+Placa madre: ASUS PRIME H510M-E
+Memoria principal:Patriot Viper Steel PVS48G320C6 DDR4-3200  2x8gb
+Memoria secundaria: M2 - Crucial P2 500 GB + SSD - Crucial BX500 1 TB 
+GPU: Gigabyte GeForce RTX 3070 VISION OC 8G
+-------------------------------------------
+-------------------------------------------
+Gama alta - AMD
+
+Procesador: Amd Ryzen 7 3800xt
+Placa madre: Gigabyte B450M DS3H
+Memoria principal: Patriot Viper Steel PVS48G320C6 DDR4-3200  2x8gb
+Memoria secundaria: M2 - Crucial P2 500 GB + SSD - Crucial BX500 1 TB 
+GPU: ASUS ROG-STRIX-RX6700XT-O12G-GAMING
+-------------------------------------------
+-------------------------------------------
+Gama alta 
+
+Procesador:Intel Core i7-12700 
+Placa madre: ASUS ROG MAXIMUS Z690 HERO EVA EDITION
+Memoria principal: Crucial Ballistix CT16G48C40S5 (1 x 16GB | SO-DIMM DDR5-4800)
+Memoria secundaria: M2 - Crucial P2 500 GB + SSD - Crucial BX500 1 TB 
+GPU: Zotac GAMING GeForce RTX 4090 Trinity OC
+-------------------------------------------
