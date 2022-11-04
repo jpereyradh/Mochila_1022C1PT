@@ -1,13 +1,13 @@
 ## Preguntas:
 
 ### a. ¿Quién inventó el sistema de control de versión Git y por qué?
-Fue desarrolado por primordialmente por Linus Torvalds, quien creo el SO Linux. La razon de su creacion fue por 
+Fue desarrolado primordialmente por Linus Torvalds, quien creo el SO Linux. La razon de su creacion fue por 
     la necesidad de un sistema capaz de manejar grandes proyectos, con velocidad y diseño sencillo, y que tenga un soporte 
     para el desarrollo no lineal (Branches), luego de que BitKeeper dejara de ofrecer el software que ocupaban antes de 
     manera gratuita. Asi se creo este software de control de versiones.
 
 ### b. ¿A quién pertenece actualmente Github y por qué?
-Github pertenece actualmente a Microsfot, el cual lo compro el año 2018. 
+Github pertenece actualmente a Microsfot, el cual lo compro el año 2018. Gran parte de la razon es porque Microsoft a presentado ultimament gran interes por las plataformas Open Source, pero ademas esta compra permite, junto a su servicio Microsoft Azure, competir con el gran Amazon con su AWS.
 
 ### c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
 Sí, existen diversos programas para trabajar de manera grafica con github. Como los siguientes:
