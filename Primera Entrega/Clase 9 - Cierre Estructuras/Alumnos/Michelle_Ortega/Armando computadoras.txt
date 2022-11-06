@@ -1,0 +1,53 @@
+Gama Media INTEL
+
+I5 11400F
+GTX 1660Ti
+Gigabyte Z590 GAMING X
+2 x 8 3200Mhz
+SSD 512Gb
+HDD 1 TB
+
+Gama Media AMD
+
+RYZEN 5 5600X
+GTX 1660Ti
+Gigabyte B550M DS3H
+2 X 8 GB 3200Mhz
+SSD SATA 3 512Gb
+HDD 1 TB
+
+Gama Media OTRO
+
+AMD Ryzen 7 5700X
+Gigabyte Radeon RX 6650 XT EAGLE 8G
+Gigabyte B450 AORUS ELITE V2
+2 X 8 GB 3200Mhz
+SSD SATA 3 512Gb
+HDD 1 TB
+
+Gama Alta INTEL
+
+Zotac GAMING GeForce RTX 3080 Ti Trinity
+Intel Core i7-12700K
+ASUS ROG STRIX Z690-F GAMING WIFI
+2 x 16 GB 3600MHZ Kingston Fury Renegade
+Kingston FURY Renegade 1 TB PCIe 4.0
+HDD 2 TB
+
+Gama Alta AMD
+
+PNY GeForce RTX 4090 24GB XLR8 Gaming VERTO EPIC-X RGB
+AMD Ryzen 9 5950X
+ASUS ROG STRIX B550-A GAMING
+Kingston FURY Renegade 1 TB PCIe 4.0
+HDD 2 TB
+2 x 16 GB 3600MHZ Kingston Fury Renegade
+
+Gama Alta OTRO
+
+Gigabyte AORUS Radeon RX 6900 XT
+Intel Core i9-12900K
+ASUS ROG STRIX Z690-F GAMING WIFI
+Kingston FURY Renegade 1 TB PCIe 4.0
+HDD 2 TB
+2 x 16 GB 3600MHZ Kingston Fury Renegade01~
