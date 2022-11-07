@@ -12,11 +12,10 @@ No, debido a que requiere una contraseña para poder instalarlas.
 ### ● ¿Hay juegos instalados? 
 No , no habian juegos instalados.
 ### ● Capturar una imagen del file explorer (ejemplo)
-Adjuntada en la misma carpeta. 
-
+#### Adjuntada en la misma carpeta. 
+![Image text](https://github.com/jpereyradh/Mochila_1022C1PT/blob/Arredondo_Diego/Segunda%20Entrega/Clase%2010-%20Sistemas%20Operativos/Alumnos/Diego_Arredondo_Clase_10_SO/File_explorer_Manjaro.png)
 
 
 ## Linkografía 
 * https://es.wikipedia.org/wiki/Manjaro_Linux
 * https://www.ionos.es/digitalguide/servidores/configuracion/manjaro-linux/
-* 
