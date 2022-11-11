@@ -12,7 +12,7 @@ Por defecto, root no tiene contraseña y la cuenta de root está bloqueada hasta
 1. systemd: administrador de servicios 
 1. rcu_gp: monitorea la carga de procesos en la CPU
 
-![Captura de la terminal con el comando top]()
+![Captura de la terminal con el comando top](https://github.com/jpereyradh/Mochila_1022C1PT/blob/Arredondo_Diego/Segunda%20Entrega/Clase%2012-%20Cierre%20Sistemas%20Operativos/Alumnos/Diego_Arredondo_Clase_12/Captura_terminal_top.png)
 
 ### •	¿Cómo identificarlos? 
 Corriendo el comando $top$ desde el terminal o con el comando $ps$
