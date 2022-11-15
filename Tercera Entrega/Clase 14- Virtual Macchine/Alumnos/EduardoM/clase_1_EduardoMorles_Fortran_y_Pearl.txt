@@ -1,0 +1,70 @@
+Fortran
+
+¿Que tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+
+- Compilado.
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+- Normalmente es ocupado para realizar aplicaciones matemáticas y te cálculo científico
+
+¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una librería o framework famoso del mismo?
+
+- Con los siguientes editores: VI, PICO, EMACS, KWRITE, GEDIT.
+
+- Librería NAG fl90.
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación matemática:
+
+	x = 4
+
+	y = 5
+
+	z = x + y
+
+
+program main
+	x = 4
+	y = 5
+	z = x + y
+	
+	print *, z
+end program main
+
+PEARL
+
+¿Que tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+
+- Es un lenguaje interpretado que debe ser compilado cada vez que desea ejecutar un programa
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+- LENGUAJE PENSADO PARA LA MANIPULACION DE CADENAS DE CARACTERES, ARCHIVOS Y PROCESOS
+
+
+¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una librería o framework famoso del mismo?
+
+- Con el siguiente editor: Komodo IDE
+
+
+- Framework: Mojolicious
+
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación matemática:
+
+	x = 4
+
+	y = 5
+
+	z = x + y
+
+$x = 4;
+$y = 5;
+$z = $x+$y;
+
+print "$z\n";
+
+
+
+
+
