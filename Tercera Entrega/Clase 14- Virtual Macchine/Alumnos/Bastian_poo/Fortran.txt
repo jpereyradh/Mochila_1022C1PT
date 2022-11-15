@@ -1,0 +1,12 @@
+1) El lenguaje Fortran es de tipo de ejecucion Compilado
+
+2) Se utiliza para la programacion de aplicaciones de uso cientifico/matematico
+
+3) VI, PICO, EMACS, KWRITE, GEDIT, etc. Libreria: NAG fl90
+
+4) program main
+x = 4
+y = 5
+z = x + y
+    print *, z
+    end program main
