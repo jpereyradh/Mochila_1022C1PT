@@ -1,0 +1,4 @@
+Respuestas
+a. Linus Torvalds en 2005 cuando necesitó un software para gestionar los cambios en el kernel de Linux. Desde entonces Git es el mejor software para gestionar las modificaciones del sistema de archivos de un proyecto. 
+b. Pertenece a microsoft por el enfoque que tenia en ese momento con los desarrolladores para hacer hincapie en que el nucleo de la empresa la forman estos mismos
+c. si, Vs code o cualquier otro editor de codigo 
