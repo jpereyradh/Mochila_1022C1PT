@@ -1,0 +1,20 @@
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+C# no es interpretado, es compilado. Pasa que se compila a un lenguaje intermedio, luego ese lenguaje intermedio es compilado al codido de cada maquina la primera vez que se ejecuta.
+PHP Es un lenguaje interpretado.
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+C# se puede utilizar para desarrollar todo tipo de aplicaciones: desde videojuegos hasta aplicaciones web como Stack Overflow.
+PHP es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+
+¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una 
+librería o framework famoso del mismo.
+
+Visual Studio Code funciona con C# y PHP
+
+Una libreria de C# es .NET
+Una libreria de PHP es Laravel
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación 
+matemática:
+
+Pantallazos en carpeta
