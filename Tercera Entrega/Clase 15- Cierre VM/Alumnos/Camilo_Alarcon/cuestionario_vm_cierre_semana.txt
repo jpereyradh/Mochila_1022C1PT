@@ -1,0 +1,36 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en 
+otros no?
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el 
+sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del 
+procesador y la interpretación que de el sistema operativo. Si en la computadora cambia la 
+arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+Ahora sí es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el 
+sistema operativo cambia la definición de la interrupción o el llamado de esta; por ejemplo, en 
+Windows para mostrar en pantalla usas la interrupción 21 (si no mal recuerdo), y en Linux me 
+parece que es la 10 (si recuerdo bien), lo cual hace los ejecutables finales incompatibles entre 
+sistemas operativos.
+ 
+¿Qué tipo de máquina virtual es VirtualBox?.
+Virtual Box no es una máquina virtual, es un software para administrar máquinas virtuales.
+VirtualBox es una aplicación que sirve para hacer máquinas virtuales con instalaciones de sistemas 
+operativos. Esto quiere decir que, si tienes un ordenador con Windows, GNU/Linux o incluso 
+macOS, puedes crear una máquina virtual con cualquier otro sistema operativo para utilizarlo 
+dentro del que estés usando.
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por 
+qué?
+
+
+Si se rompe una, solo falla esa y no afecta a las demás. Por qué se ejecutan en una capa de 
+software diferente y totalmente aislada.
+Existen diversos usos para las máquinas virtuales, pero ya que permiten emular casi cualquier 
+sistema operativo estándar (Windows, GNU/Linux, MacOS, Android, etc.), y dado que se ejecutan 
+en una capa de software diferente y totalmente aislada, uno de los usos más frecuentes es el de 
+probar diferentes sistemas operativos, programas o configuraciones con total seguridad para tu 
+ordenador real ya que, si algo falla en la máquina virtual, este fallo no afectará en absoluto al 
+ordenador que la ejecuta.
+ De ese modo, si por ejemplo, sospechas que un archivo que te han enviado pudiera estar 
+infectado por un virus o software malicioso, puedes ejecutarlo en una máquina virtual para 
+comprobar su fiabilidad. Si no sucede nada, podrás usarlo en tu equipo. En caso contrario, 
+infectará solo a la máquina virtual y tu equipo se mantendrá inmune al ataque.
