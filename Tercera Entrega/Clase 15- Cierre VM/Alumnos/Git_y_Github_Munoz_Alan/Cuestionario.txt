@@ -1,0 +1,29 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+Por que los lenguajes compilan a lenguaje ensablador, y este depende su ejecución
+al Sistema Operativo, la arquitectura del procesador y la interpretación. Al cambiar
+de OS o de procesador la arquitectura cambia, por tanto en lenguaje no correra.
+
+Debido a lo anterior es que existen versiones para cada OS y las arquitectura
+de procesador correspondientes. Si hablamos de lenguajes interpretados, nos encontraremos
+con un interprete paraca OS y arquitectura.
+
+Hay veces que al coincidir la arquitectura pero no el Sistema Operativo, el mismo OS 
+hace cambios internos y puede correr de la misma de forma correcta.
+
+
+¿Qué tipo de máquina virtual es virtualBox?.
+Es un hipervisor de tipo 2, que permite emular multiples Sistemas Operativos, 
+en un solo Sistema Operativo host.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+El fallo de una maquina virtual no afecta a otras, esto se debe a que cada maquina virutal
+está aislada y funciona como un entidad independiente.
+
+Una maquina virtual funciona tal como una física, por tanto, mientras las
+aseguremos con las protecciones necesarias para estar en red, no estarán
+en riesgo. Si una se daña, las demás seguirán funcionando. 
+
