@@ -1,0 +1,129 @@
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git add .
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git commit -m Mochile ArdilesPanchoMV c-15
+error: pathspec 'ArdilesPanchoMV' did not match any file(s) known to git
+error: pathspec 'c-15' did not match any file(s) known to git
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git commit -m ' Mochila ArdilesPanchoMV C/15 '
+[ArdilesPanchoMV 4be8d22]  Mochila ArdilesPanchoMV C/15
+ 2 files changed, 28 deletions(-)
+ delete mode 100644 Tercera Entrega/Clase 15- Cierre VM/Alumnos/ARDILESPANCHO/Actividad Ubuntu + github clase.pdf
+ delete mode 100644 Tercera Entrega/Clase 15- Cierre VM/Alumnos/ArdilesPancho/RespLeng.txt
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git log
+commit 4be8d22a894b901905fae29594f9e81ddb3e75fb (HEAD -> ArdilesPanchoMV)
+Author: Pancho <freber2020@icloud.com>
+Date:   Sun Nov 20 21:43:20 2022 +0000
+
+     Mochila ArdilesPanchoMV C/15
+
+commit 9bb597f27342c137c83a5b5dfd83b20f14ff07ca
+Merge: ecf2c48 b776466
+Author: Pancho <freber2020@icloud.com>
+Date:   Sun Nov 20 21:20:12 2022 +0000
+
+    Merge branch 'ArdilesPancho' of https://github.com/jpereyradh/Mochila_1022C1PT into ArdilesPanchoMV
+
+commit b776466c12a0bc1a2bef03dfa1180b3a621186ab (origin/ArdilesPancho)
+Author: Panchito Ardiles <freber2020@icloud.com>
+Date:   Sun Nov 20 18:00:20 2022 -0300
+
+    Mochila Ardiles-15.v2
+
+commit e7ee2122c7a5487434c912cf7943189053681fcf
+Author: Panchito Ardiles <freber2020@icloud.com>
+Date:   Sun Nov 20 17:25:08 2022 -0300
+
+    Mochile Ardiles-12
+
+commit ecf2c486363292f9639925dd001d875e41634654 (origin/ArdilesPanchoMV, main)
+Author: Pancho <freber2020@icloud.com>
+Date:   Sun Nov 20 16:39:22 2022 +0000
+
+    Mochila MV Ardiles-15
+
+commit b7d7bf6c9becd6ad804eaf802d03a928f3c3d78e
+Author: Panchito Ardiles <freber2020@icloud.com>
+Date:   Sun Nov 20 12:33:45 2022 -0300
+
+    Mochila de Ardiles-15
+
+commit 6e6554d4adf900a82909b578edbcb3c7c2bef61e
+Merge: 82a6647 ac7dec5
+ ^X
+[3]+  Stopped                 git log
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git push ArdilesPanchoMV
+fatal: 'ArdilesPanchoMV' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git Branch
+git: 'Branch' is not a git command. See 'git --help'.
+
+The most similar command is
+	branch
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git  branch
+* ArdilesPanchoMV
+  main
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git status
+On branch ArdilesPanchoMV
+nothing to commit, working tree clean
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git push origin ArdilesPanchoMV
+Username for 'https://github.com': PanchoArdiles
+Password for 'https://PanchoArdiles@github.com': 
+Enumerating objects: 20, done.
+Counting objects: 100% (20/20), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (11/11), 1.05 KiB | 26.00 KiB/s, done.
+Total 11 (delta 7), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (7/7), completed with 4 local objects.
+To https://github.com/jpereyradh/Mochila_1022C1PT.git
+   ecf2c48..4be8d22  ArdilesPanchoMV -> ArdilesPanchoMV
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# git log
+commit 4be8d22a894b901905fae29594f9e81ddb3e75fb (HEAD -> ArdilesPanchoMV, origin/ArdilesPanchoMV)
+Author: Pancho <freber2020@icloud.com>
+Date:   Sun Nov 20 21:43:20 2022 +0000
+
+     Mochila ArdilesPanchoMV C/15
+
+commit 9bb597f27342c137c83a5b5dfd83b20f14ff07ca
+Merge: ecf2c48 b776466
+Author: Pancho <freber2020@icloud.com>
+Date:   Sun Nov 20 21:20:12 2022 +0000
+
+    Merge branch 'ArdilesPancho' of https://github.com/jpereyradh/Mochila_1022C1PT into ArdilesPanchoMV
+
+commit b776466c12a0bc1a2bef03dfa1180b3a621186ab (origin/ArdilesPancho)
+Author: Panchito Ardiles <freber2020@icloud.com>
+Date:   Sun Nov 20 18:00:20 2022 -0300
+
+    Mochila Ardiles-15.v2
+
+commit e7ee2122c7a5487434c912cf7943189053681fcf
+Author: Panchito Ardiles <freber2020@icloud.com>
+Date:   Sun Nov 20 17:25:08 2022 -0300
+
+    Mochile Ardiles-12
+
+commit ecf2c486363292f9639925dd001d875e41634654 (main)
+Author: Pancho <freber2020@icloud.com>
+Date:   Sun Nov 20 16:39:22 2022 +0000
+
+    Mochila MV Ardiles-15
+
+commit b7d7bf6c9becd6ad804eaf802d03a928f3c3d78e
+Author: Panchito Ardiles <freber2020@icloud.com>
+Date:   Sun Nov 20 12:33:45 2022 -0300
+
+    Mochila de Ardiles-15
+
+commit 6e6554d4adf900a82909b578edbcb3c7c2bef61e
+Merge: 82a6647 ac7dec5
+
+[4]+  Stopped                 git log
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# ls
+'Git y Github- Resumen - V2.pdf'  'Primera Entrega'   README.md  'Segunda Entrega'  'Tercera Entrega'
+root@virtualmachinefco:/home/user/Mochila_1022C1PT# cd 'Tercera Entrega'
+root@virtualmachinefco:/home/user/Mochila_1022C1PT/Tercera Entrega# ls
+'Clase 14- Virtual Macchine'  'Clase 15- Cierre VM'
+root@virtualmachinefco:/home/user/Mochila_1022C1PT/Tercera Entrega# cd 'Clase 15- Cierre VM'
+
