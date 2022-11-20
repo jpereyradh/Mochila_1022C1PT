@@ -1,0 +1,11 @@
+¿Qué es un usuario root en Linux?
+Es el usuario que tiene acceso como administrador al sistema. Los usuarios “normales” no tienen el acceso por razones de seguridad.
+
+¿Por qué Ubuntu no me deja establecer la contraseña durante la instalación?
+Porque no es necesario, todo los usuarios se añaden a la cuenta admin que puede ejecutar comandos o programas como root.
+
+¿Cuáles son los procesos típicos de Linux?
+El proceso padre es PID1, y todos los demás procesos ejecutados a partir de este, son procesos hijos.
+
+¿Cómo identificarlos?
+Con el comando ps, se nos lista todos los procesos que se están ejecutando, puede ser con la opción -e, -aux, top.
