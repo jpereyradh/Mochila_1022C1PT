@@ -1,0 +1,11 @@
+La información de la ip privada y la mascara de subred,
+se puede encontrar con el comando ipconfig.
+
+Direccion Privada: 192.168.1.107
+Mascara de subred: 255.255.255.0
+Dirección Publica: 181.160.98.87
+
+
+Todas son de clase C.
+
+Si ponemos la Mac en Macvendors.com, obtenemos la empresa desarrolladora Intel Corporate.
