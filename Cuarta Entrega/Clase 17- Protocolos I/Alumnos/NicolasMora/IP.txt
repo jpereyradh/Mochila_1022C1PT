@@ -1,0 +1,4 @@
+IP Pública: 2803:c180:2000:7d79:a858:e9b6:e9f7:4ec8 - IPv6
+IP Privada: 192.168.100.15 - IPv4 Clase C
+Mascara subred: 255.255.255.0
+Dirección MAC: 18-C0-4D-32-7E-E5
