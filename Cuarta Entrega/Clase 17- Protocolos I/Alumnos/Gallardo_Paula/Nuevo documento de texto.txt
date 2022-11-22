@@ -1,0 +1,4 @@
+¿ La IP pública y privada de qué clase son ? 
+
+¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a 
+https://macvendors.com/ y verificar que marca de placa de red tenemos.
