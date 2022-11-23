@@ -1,0 +1,8 @@
+Direccion IP publica: 192.168.100.1
+Direccion IP privada:  182.71.54.16
+Mascara de subred: 255.255.255.0
+
+¿ La IP pública y privada de qué clase son ?
+IP publica es clase C
+IP privada es clase B
+
