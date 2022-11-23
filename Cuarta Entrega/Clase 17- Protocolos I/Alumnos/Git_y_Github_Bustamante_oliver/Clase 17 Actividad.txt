@@ -1,0 +1,4 @@
+IP Pública: 190.114.37.165
+IP Privada: 192.168.1.12
+Máscara de subred: 255.255.255.0
+MAC: 1C-BF-CE-45-2B-10
