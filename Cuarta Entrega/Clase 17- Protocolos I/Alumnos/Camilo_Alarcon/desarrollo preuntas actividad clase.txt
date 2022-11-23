@@ -1,0 +1,4 @@
+¿ La IP pública y privada de qué clase son ?
+
+La IP pública es clase B y la IP privada es clase C.
+
