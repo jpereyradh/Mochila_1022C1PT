@@ -1,0 +1,11 @@
+Direccion IP Publica: 186.104.202.187 // Clase B
+
+Direccion IP Privada: 192.168.1.86 // CLase B
+
+Mascara de Subred: 255.255.255.0
+
+Direccion MAC: 00-71-C2-31-1B-E5 
+
+mother Realtek PCIe GbE Family Controller // MARCA PEGATRON CORPORATION
+
+
