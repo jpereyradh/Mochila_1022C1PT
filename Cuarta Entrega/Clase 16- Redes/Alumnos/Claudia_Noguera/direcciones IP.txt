@@ -1,0 +1,4 @@
+DIRECCION IP privada: 192.168.0.10  clase C
+mascara de subred   : 255.255.255.0
+DIRECCION IP pública: 190.47.196.142
+direccion MAC: 80-B6-55-DD-D1-C3
