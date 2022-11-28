@@ -1,0 +1,16 @@
+¿Por que un lenguaje de programacion solo puede utilzarse en algunos sistemas operativod y en otros no?
+
+Cualquier lenguaje de progamacion puede usarse en un sistema operativo siempre y cuando haya un interprete o compilador, es factible utilizar un tenica llamada cross-compile en donde en una maquina y sistema operativo "x" puedes compilar codigo para sistema operativa y maquina diferente
+
+¿Que tipo de maquina virtual soporta virtualBox?
+
+Es una maquina virtual de proceso, se ejecuta como un proceso normal dentro de un sistema operativo y soporta un solo proceso
+
+¿Que funcion cumple el hipervisor en la virtualizacion?
+
+Un hipervisor permite qu eun ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+Si tengo mas de una maquina virtual instalada, y una se rompe ¿Esto afecta a las demas?¿Porque?
+
+No, no afecta, esto es porque ejecutan en un mismo servidor para ejecutar varias instacias de la misma aplicacion de forma separada
+
