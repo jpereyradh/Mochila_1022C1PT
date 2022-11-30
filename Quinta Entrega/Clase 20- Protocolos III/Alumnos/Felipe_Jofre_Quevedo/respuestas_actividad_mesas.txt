@@ -1,0 +1,50 @@
+Mi IP Pública con OPERA:
+181.160.79.xxx
+
+Mi IP Pública con OPERA y VPN activado:
+77.111.246.13
+
+La Geolocalización aproximada es:
+País	Estados Unidos
+Ciudad	
+Latitud	37.751
+Longitud	-97.822
+ISP	Opera Mini Proxy
+
+¿Las ip públicas son las mismas? ¿por qué?
+- No, no son las mismas, ya que al activar la Red Privada Virtual o VPN se crea un túnel que me permite navegar conectado a una red remota, en este caso ubicada en Estados Unidos.
+
+Sin utilizar la VPN puedes ver el siguiente video (https://www.youtube.com/watch?v=6_kh4RsBjbI)? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+- Sin VPN no me es posible ver el video. Con el VPN activado si puedo navegar y ver ese video. Lo que sucede es que tiene un bloqueo geográfico para que las conexiones provenientes de ciertas regiones no lo puedan ver, al tener activada la VPN puedo navegar conectado a una red en Estados Unidos, por lo tanto puedo ver el video porque ese país no tiene bloqueo.
+
+Utilizando Tor ¿pudimos localizar la IP ?
+- Decidí no instalar Tor.
+
+Test de velocidad:
+
+Con Opera con VPN desactivado:
+DESCARGA Mbps
+392.51
+SUBIDA Mbps
+103.76
+PING
+148ms
+
+Opera con VPN activado:
+DOWNLOAD Mbps
+9.16
+UPLOAD Mbps
+4.15
+Ping
+190ms
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+- Si, son diferentes. Puede que suceda esto por varios factores, pero quizás los principales son es que mediante una VPN la conexión, consulta, envíos y recepciones de datos se relentisan y también porque mi ISP limita de otra forma mi conexión "internacional", no así el enlace "nacional".
+
+¿Que significa el valor del ping?
+El valor del ping representa el tiempo que demora en conectarse al servidor mi conexión, mientras más alto este valor, más tiempo toma conectarse.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Si varía, porque los paquetes viajan a través de una VPN con una conexión internacional, por lo tanto está más limitada.
+
