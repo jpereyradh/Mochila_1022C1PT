@@ -1,0 +1,54 @@
+
+
+Navegador Brave sin VPN 186.104.136.11 pais Chile
+
+Navegador Opera con VPN 77.111.246.31 pais EEUU
+
+Navegador Tor 45.151.167.11 Sin Pais proveedor Artikel10 e.V. sin ubicacion
+
+¿Las ip públicas son las mismas? ¿por qué?
+
+No, porque con el VPN nos muestra otra ubicacion , y con Tor no muestra ninguna ubicacion 
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+
+Navegador Brave sin VPN , mensaje de VIDEO NO DISPONIBLE 
+
+Navegador Opera con VPN, Si se puede ver el video 
+
+Navegador Tor, No muestra video .
+
+Utilizando Tor ¿pudimos localizar la IP ?
+
+No registra IP ni ubicacion 
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el
+ping, anotar estos valores.
+-Subida 15.90
+-Bajada 33.63
+-Ping ms   11  79  256
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida,
+bajada y el ping, anotando estos valores
+-Subida 13.68
+-Bajada 33.77
+-Ping ms  16  84  706
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida,
+bajada y el ping, anotando estos valores.
+
+-Subida 0.77
+-Bajada 3.39
+-Ping ms  540  694  1100
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+por que las conexiones son diferentes y de formas diferentes  ocupan las conexiones como anonima y diferente ubicacion
+
+¿Que significa el valor del ping?
+ es el tiempo que tarda en transmitirse un paquete de datos dentro de la red
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Si son diferentes , ya que las esta ocupadon diferentes  conexiones para conectarse en caso de tor es mas lenta ya que consigue que su tráfico se vuelva totalmente anónim
