@@ -1,0 +1,65 @@
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT (master)
+$ git clone https://github.com/jpereyradh/Mochila_1022C1PT.git #clonando repositorio git de la mochila
+Cloning into 'Mochila_1022C1PT'...
+remote: Enumerating objects: 990, done.
+remote: Counting objects: 100% (240/240), done.
+remote: Compressing objects: 100% (111/111), done.
+remote: Total 990 (delta 158), reused 196 (delta 129), pack-reused 750
+Receiving objects: 100% (990/990), 25.23 MiB | 2.78 MiB/s, done.
+Resolving deltas: 100% (341/341), done.
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT (master)
+$ git checkout -b garcia_luis #este comando busca la rama 'garcia_luis' y la crea de no encontrarla
+Switched to a new branch 'garcia_luis'
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT (garcia_luis)
+$ cd Moch*
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT (main)
+$ cd Pri*
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega (main)
+$ ls
+'Clase 6- Cierre Git y Github'/  'Clase 7- Estructuras de Computadores'/
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega (main)
+$ cd 'Clase 6'*
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github (main)
+$ ls
+ Alumnos/  'Mochila del viajero primer consigna.pdf'  'Mochila del viajero segunda consigna.pdf'  'Mochila del viajero.pdf'
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github (main)
+$ }cd Alu*
+bash: }cd: command not found
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github (main)
+$ cd Alu*
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github/Alumnos (main)
+$ ls
+Jorgito/
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github/Alumnos (main)
+$ mkdir garcia_luis
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github/Alumnos (main)
+$ cd gar*
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github/Alumnos/garcia_luis (main)
+$ touch primera_consigna.txt
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github/Alumnos/garcia_luis (main)
+$ nano primera_consigna.txt
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github/Alumnos/garcia_luis (main)
+$ git add ../garcia_luis # agregando la garcia_luis a la rama del mismo nombre
+warning: LF will be replaced by CRLF in Primera Entrega/Clase 6- Cierre Git y Github/Alumnos/garcia_luis/primera_consigna.txt.
+The file will have its original line endings in your working directory.
+
+ali@ali MINGW64 ~/Desktop/certificacion tech DH/introduccion informatica c1/Mochila_1022C1PT/Mochila_1022C1PT/Primera Entrega/Clase 6- Cierre Git y Github/Alumnos/garcia_luis (main)
+$ git commit -m 'primer commit'
+[main bf7cb23] primer commit
+ 1 file changed, 6 insertions(+)
+ create mode 100644 Primera Entrega/Clase 6- Cierre Git y Github/Alumnos/garcia_luis/primera_consigna.txt
+
