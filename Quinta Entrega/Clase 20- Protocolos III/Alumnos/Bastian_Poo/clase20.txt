@@ -25,5 +25,9 @@ OPERA SIN VPN v800mbps ^930mbps 4ms
 
 TOR v0.5 mpbs ^1.86mbps 1010ms
 
+Las velocidades son distintas ya que cada navegador tiene sus propias caracteristicas para redireccionar las redes y el enroutamiento.
+El valor del ping es el tiempo en que un paquete(dato) logra ser enviado y recibido
+Si varia mucho entre las diferentes opciones, ya que cada navegador utiliza distintos camino (servidores/puertos/routers/etc) para poder llegar a un punto, esto hace que el camino sea mas "largo" o mas "corto", es decir, que el tiempo de respuesta sea mayor o menor.
+
 
 
