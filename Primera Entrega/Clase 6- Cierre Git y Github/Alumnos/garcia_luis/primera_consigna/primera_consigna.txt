@@ -1,0 +1,6 @@
+﻿1) Linus Torvald, debido a las dificultades para utilizar el sistema de control de versión SVN para administrar las versiones del kernel de linux.
+
+2) Pertenece a Microsoft. Microsoft a adoptado una estrategia mucho más abierta al software libre y a la integración con otras plataformas y servicios.
+
+3) A través de una interfaz gráfica (GUI) como por ejemplo  gitk y git-gui
+
