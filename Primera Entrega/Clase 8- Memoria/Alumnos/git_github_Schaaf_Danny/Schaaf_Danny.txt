@@ -1,0 +1,15 @@
+Enunciado:
+Nuestro grupo de amigos adquirió una PS4 con un disco de 256 GB y queremos instalarle la
+mayor cantidad de juegos posibles de una lista de 15 juegos que armamos entre todos.
+- Diablo III                                  41 GB
+- DriveClub                                   28,86 GB
+- Killzone: Shadow Fall SP                    38,5 GB
+- Knack                                       35,6 GB
+- MLB 14 The Show                             37,5 GB
+- The Last of Us                              48,11 GB
+- Assassin's Creed IV: Black Flag             21,2 GB
+- Bound By Flame                              5.200 MB
+- Flower                                      18.000 MB
+- Resogun                                     460.800 KB
+- Trine 2: Complete Story                     2.760 MB
+- Don't Starve                                609 MB
