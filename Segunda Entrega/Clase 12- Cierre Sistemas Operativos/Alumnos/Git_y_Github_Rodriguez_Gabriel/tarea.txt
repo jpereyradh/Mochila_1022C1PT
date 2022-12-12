@@ -1,13 +1,22 @@
-¿Por que un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+¿Que es un usuario root en Linux?
 
-Porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de la arquitectura del procesado y la interpretación del sistema operativo.
+El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema. Los usuarios normales no tienen este acceso por razones de seguridad. Sin embargo, Kubuntu no incluye el usuario root. En su lugar, se da acceso administrativo a usuarios individuales, que pueden utilizar la aplicación "sudo" para realizar tareas administrativas. La primera cuenta de usuario que creó en su sistema durante la instalación tendrá, de forma predeterminada, acceso a sudo. Puede restringir y permitir el acceso a sudo a los usuarios con la aplicación Usuarios y grupos (vea “Usuarios y Grupos” para más información).
 
-¿Que tipo de maquina virtual es virtualBox?
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
 
-Virtual box es un software que permite generar maquinas virtuales de sistemas
+No es necesario, ya que existe el comando sudo el cuál permite elevar los privilegios del usuario temporalmente.
 
-Si tengo más de una máquina virtual instalada, y una se rompe ¿esto afecta a las demas? ¿por qué?
+¿Cuáles son los procesos típicos de Linux?
 
-Si una maquina virtual se rompe no afecta a las demás, ya que cada una funciona de forma independiente
+ - Procesos Normales
+ - Procesos Daemon
+ - Procesos Zombie
 
+¿Como identificarlos?
 
+Los principales estados en los que pueden encontrarse los procesos en Linux/Unix son los siguientes:
+
+running (R) : Procesos que están en ejecución.
+sleeping (S) : Procesos que están esperando su turno para ejecutarse.
+stopped (D) : Procesos que esperan a que se finalice alguna operación de Entrada/Salida.
+zombie (Z) : Procesos que han terminado pero que siguen apareciendo en la tabla de procesos.
