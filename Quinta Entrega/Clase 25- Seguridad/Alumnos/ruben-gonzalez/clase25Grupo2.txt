@@ -1,0 +1,6 @@
+-Para mejorar la intranet, realizar una auditoria buscando debilidades
+-Aumentar seguridad de contraseñas usuarios
+
+-Para mejorar la seguridad fisica
+Trabajadores remotos deben tener UPS
+Respaldos de computadores y archivos importantes
