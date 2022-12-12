@@ -1,0 +1,23 @@
+Análisis de la situación:
+
+
+-Todos los trabajadores trabajan presencialmente.
+-Están dispuestos  a capacitarse.
+-Tienen acceso a información sensible
+-No existen respaldos
+-Posee acceso web.
+
+Plan de seguridad:
+0) Capacitación de cyberseguridad a los trabajadores periódica.
+
+1) Seguridad Lógica: Implementar controles de acceso a usuarios y acceso a la información sensible. Protección anti malwares.
+
+2) Seguridad física: Implementar una rutina de respaldos de datos usuarios, Implementar un servidor general de repaldo data.
+
+3) Seguridad pasiva: Aislar la pagina web catálogo de las bases de datos de inforamción sensible.
+
+4) Mantener Antivirus actualizados y Capacitaci´n constante a los trabajadores.
+
+5) Forzar cambios de conrtaseñas cada X cantidad de días.
+
+6) Los posibles vulnerabilidades: Dos personas tienen acceso completo a la info sensible. Es posible vulnerar los acceso de usuarios
