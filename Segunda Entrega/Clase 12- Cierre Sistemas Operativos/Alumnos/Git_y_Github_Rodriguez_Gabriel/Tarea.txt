@@ -1,0 +1,22 @@
+¿Que es un usuario root en Linux?
+
+El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema. Los usuarios normales no tienen este acceso por razones de seguridad. Sin embargo, Kubuntu no incluye el usuario root. En su lugar, se da acceso administrativo a usuarios individuales, que pueden utilizar la aplicación "sudo" para realizar tareas administrativas. La primera cuenta de usuario que creó en su sistema durante la instalación tendrá, de forma predeterminada, acceso a sudo. Puede restringir y permitir el acceso a sudo a los usuarios con la aplicación Usuarios y grupos (vea “Usuarios y Grupos” para más información).
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+
+No es necesario, ya que existe el comando sudo el cuál permite elevar los privilegios del usuario temporalmente.
+
+¿Cuáles son los procesos típicos de Linux?
+
+ - Procesos Normales
+ - Procesos Daemon
+ - Procesos Zombie
+
+¿Como identificarlos?
+
+Los principales estados en los que pueden encontrarse los procesos en Linux/Unix son los siguientes:
+
+running (R) : Procesos que están en ejecución.
+sleeping (S) : Procesos que están esperando su turno para ejecutarse.
+stopped (D) : Procesos que esperan a que se finalice alguna operación de Entrada/Salida.
+zombie (Z) : Procesos que han terminado pero que siguen apareciendo en la tabla de procesos.
