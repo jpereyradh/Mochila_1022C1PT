@@ -1,0 +1,8 @@
+Direccion IP publica: 178.9.133.47 Clase B
+Direccion IP Privada: 192.148.1.93 Clase C
+Mascara de Subred: 255.255.255.0
+
+Direccion MAC: A8-A1-58-93-45-71
+ASRock Incorporation
+
+*** Datos se encuentran modificados
