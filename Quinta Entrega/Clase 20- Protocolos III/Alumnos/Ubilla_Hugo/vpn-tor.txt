@@ -1,0 +1,5 @@
+Las IP públicas no son las mismas, porque tanto en VPN como en TOR el enrutamiento se realiza por router que correspondan a cada red.
+
+Las velocidades son diferentes porque en VPN y TOR se prioriza el anonimato a la velocidad y estas redes son más pequeñas que la de internet ” libre”. 
+
+El valor del ping es la latencia que demora en recibir un paquete. Y en las redes varía porque al tener menos dispositivos vpn o Tor la información viaja más lento y aumenta la latencia.
