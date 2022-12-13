@@ -1,0 +1,33 @@
+
+git clone <https://link-con-nombre-del-repositorio>
+
+git init  Crear repositorio local
+
+git branch <nombre-de-la-rama>
+
+git push <nombre-remoto> <nombre-rama>  
+
+git branch -d <nombre-de-la-rama> BORRA UNA RAMA
+
+git branch --list Ver la lista de Ramas
+
+git checkout <nombre-de-la-rama>   Para ir a la rama elegida
+
+
+git checkout -b <nombre-de-tu-rama>
+Este comando crea una nueva rama en local (-b viene de rama (branch)) y te cambia a la rama que acabas de crear.
+
+
+git status    Estado de la rama
+
+git add <Nombre de archivo>
+
+git add -A   Agregar todo
+
+git commit -m "mensaje de confirmación"
+
+git push <nombre-remoto> <nombre-de-tu-rama>
+
+git push -u origin <nombre-de-tu-rama>
+
+git pull <nombre-remoto>
