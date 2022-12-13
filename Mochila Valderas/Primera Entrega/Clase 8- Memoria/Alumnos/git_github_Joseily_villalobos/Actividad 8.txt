@@ -1,0 +1,16 @@
+Nuestro grupo de amigos adquirió una PSP con un disco de 6GB y queremos instalarle la mayor cantidad de juegos posibles de una lista de 15 juegos que armamos entre todos.		
+			
+1	Driver 491,4 MB 	                491,4	MB
+2	Need For Speed Carbon 121 MB	        121	MB
+3	 Burnout Dominator 682 MB       	682	MB
+4	 MotorStorm Artic Edge 752 MB	        752	MB
+5	Crash Tag Team Racing 834 MB	        834	MB
+6	Plants vs. Zombies 2 MB 	        2	MB
+7	Metal Slug Anthology 663 MB	        663	MB
+8	Resident Evil 3: Nemesis 363 MB	        363	MB
+9	PES 2013 975 MB         	        975	MB
+10	Coded Arms 49,8 MB              	49,8	MB
+11	 Street Fighter 3 Alpha Max 78,2 MB	78,2	MB
+			
+	                           	Total 5011,4	MB
+    
