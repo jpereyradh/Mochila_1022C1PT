@@ -31,9 +31,59 @@ No, las direcciones IP públicas no son las mismas, ya que al activar la VPN (Re
 ¿que es lo que sucedió?¿Por qué?
 
 Sin la utilización de un VPN no pude visualizar el video, ya que la visualización está limitada a ciertas regiones. Utilizando
-el VPN de Opera, si se debería poder visualizar.
+el VPN de Opera, si se debería poder visualizar, ya que se estableció conexión con una red de una región compatible para visualizar el video.
 
 
 3)Utilizando Tor ¿pudimos localizar la IP?
 
 Obtener una dirección IP sí, sin embargo, no se logró localizar en que país, ciudad y coordenadas aproximadas se encuentra esa dirección.
+
+
+SPEED TEST
+
+Navegador Microsoft Edge sin VPN:
+
+DESCARGA Mbps
+821.64
+SUBIDA Mbps
+937.43
+Ping: 3ms(idle)  9ms(download)  8ms(upload)
+
+Navegador OPERA con VPN:
+
+DESCARGA Mbps
+9.93
+SUBIDA Mbps
+8.10
+Ping: 160ms(idle)  160ms(download)  163ms(upload)
+
+
+Navegador Red TOR
+
+Descarga Mbps
+1.93
+Subida Mbps
+2.88
+Ping: 762ms(idle)  2103ms(download)  --(upload)
+
+
+
+4)¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+Sí, son diferentes. En el caso de la velocidad utilizando VPN, es lenta ya que la ubicación de los servidores VPN que se eligió está lejos de nuestra ubicación física. 
+También, otra causa es debido a que la interconectividad entre la VPN y nuestro proveedor de servicios de internet es subóptima. 
+
+En el caso de la red TOR, la velocidad es aún más lenta, ya que nuestra conexión pasa a través de muchos nodos hasta llegar a su destino final, por lo que son muchas capas que evitan que los datos personales puedan filtrarse, lo que causa lentitud en el envío y recepción de información. 
+
+5)¿Que significa el valor del ping?
+
+El valor del ping corresponde al tiempo en ms que tarda un dispositivo en realizar una solicitud, y recibir una respuesta dada esa solicitud.
+
+
+6)El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+El valor del ping varía, ya que en los tres casos se establece una conexión a tres tipos de redes distintas. En el caso de navegar sin VPN,
+se establece una conexión con un proveedor cercano, por lo que el ping es menor. Navegando con una VPN activa, se establece una conexión, en este caso,
+a una red de Estados Unidos, por lo que el ping aumenta. Finalmente, la red TOR activa es la que posee un ping mucho más elevado, ya que se conecta a una
+red múltiple de servidores con el fin de otorgar anonimato, lo que da como resultado que la solicitud que envíe un dispositivo y la recepción de una respuesta
+sea mucho mayor.
