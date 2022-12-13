@@ -1,0 +1,29 @@
+¿Qué tipo de amenaza es?
+
+rootkit 
+
+
+¿Cómo comienza y cómo se propaga esta amenaza?
+
+
+según los investigadores existe una etapa previa al loader que consiste en un dropper, pero los analistas
+desconocen como funciona esta etapa, pero si se sospecha que los atacante seleccionan a sus víctimas,
+como en este caso una empresa de logística de sudáfrica.
+
+¿Hay más de una amenaza aplicada?
+
+el rootkit puede abrir puertas traseras y a través de eso se comunica a la red tor para enviar y recibir datos.
+además puede ejecutar código arbitrario en el sistema. se sospecha que el proposito del malware es realizar
+tareas de espionaje.
+
+¿qué solución o medida recomendaría?
+
+Según lo descrito en el artículo los atacantes identifican a sus víctimas en zonas geográficas más pobre como el
+africa, debido posiblemente a los bajos estandares de seguridad informática que tiene en esas zonas, incluyendo
+el uso de software pirata. Nuestra recomendación sería la de adecuarse a prácticas que no requieran de software licenciado
+y en caso de ser estrictamente necesario, obtener una licencia original del mismo. por otro lado
+habría que conducir el tráfico a través de un cortafuegos que permita controlar y monitorear el tráfico de
+entrada y salida de la red. Finalmente limitar los privilegios de usuario y utilizar antivirus serían medidas
+básicas a tomar.
+
+
