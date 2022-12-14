@@ -1,0 +1,18 @@
+Escenario para grupos 2, 4, 6, 8, 10 , 12
+● Empresa ya consolidada que se dedica a brindar servicios informáticos. La
+mayoría de sus empleados trabajan de forma remota, pero hay algunos que lo
+hacen on site. Necesitan una intranet más segura. La información conﬁdencial
+de la empresa tiene buena seguridad lógica, pero muy poca física, aunque
+igualmente desean tener asesoramiento en seguridad lógica. No tienen
+problemas en invertir dinero, pero sus empleados se resisten al cambio de
+nuevas restricciones. Poseen una página web donde brindan sus servicios y los
+clientes pueden contactarse a través de la misma.
+
+
+
+-Para mejorar la intranet, realizar una auditoria buscando debilidades
+-Aumentar seguridad de contraseñas usuarios
+
+-Para mejorar la seguridad fisica
+Trabajadores remotos deben tener UPS
+Respaldos de computadores y archivos importantes

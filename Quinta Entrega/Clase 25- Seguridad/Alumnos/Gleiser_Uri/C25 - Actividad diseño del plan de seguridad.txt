@@ -1,0 +1,51 @@
+Microdesafío
+
+
+La empresa que se les haya asignado los contrata como asesores de seguridad, ya que
+creen que es una parte fundamental para resguardar sus activos. En base a lo visto en
+clase y clases anteriores deben hacer:
+1. Un análisis de la situación actual de cada empresa que se les haya asignado.
+2. Para cada escenario planteado, crear un plan de seguridad
+3. Este plan debe ser de 6 pasos e incluir: seguridad lógica, física, pasiva, activa y
+controles de medida de seguridad y de vulnerabilidades que podrían explotar
+los atacantes.
+
+Esta serie de pasos y sugerencias debe ser presentada en un documento que pueda
+ser compartido con otras personas, especiﬁcando el grupo que son y el escenario que
+les tocó.
+
+Escenarios para grupos 1, 3, 5, 7, 9, 11
+● Empresa emergente dedicada a la venta de productos fertilizantes para campos
+con una capacidad ﬁnanciera acotada. Todos sus empleados trabajan on site y
+están dispuestos a recibir capacitación. Poseen actualmente dos personas
+encargadas de sistemas, las cuales manejan información sensible, pero que
+todos los usuarios pueden ver (no es política de la empresa). No realizan copias
+de información porque no las creen convenientes. Poseen una página web
+donde hay catálogos y los clientes pueden hacer compras a través de la misma.
+
+
+
+1.Análisis de la situación:
+
+
+-Todos los trabajadores trabajan presencialmente.
+-Están dispuestos  a capacitarse.
+-Tienen acceso a información sensible
+-No existen respaldos
+-Posee acceso web.
+
+2. y 3. Plan de seguridad:
+0) Capacitación de cyberseguridad a los trabajadores periódica.
+
+1) Seguridad Lógica: Implementar controles de acceso a usuarios y acceso a la información sensible. Protección anti malwares.
+
+2) Seguridad física: Implementar una rutina de respaldos de datos usuarios, Implementar un servidor general de repaldo data.
+
+3) Seguridad pasiva: Aislar la pagina web catálogo de las bases de datos de inforamción sensible.
+
+4) Mantener Antivirus actualizados y Capacitación constante a los trabajadores.
+
+5) Forzar cambios de contraseñas cada X cantidad de días.
+
+6) Los posibles vulnerabilidades: Dos personas tienen acceso completo a la información sensible. 
+Y es posible vulnerar los acceso de usuarios.
