@@ -1,0 +1,11 @@
+1) Lenguaje Interpretado (Compilado cada vez que se ejecuta el programa)
+
+2) MANIPULACION DE CADENAS DE CARACTERES, ARCHIVOS Y PROCESO
+
+3) Komodo IDE, Framework: Mojolicious
+
+4) 
+$x = 4;
+$y = 5;
+$z = $x+$y;
+print "$z";

@@ -1,0 +1,19 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (según corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese sistema operativo. Obvio si no hay tal intérprete o compilador no podrás usar ESE, tu lenguaje favorito, en ese sistema.
+
+¿Qué tipo de máquina virtual soporta virtualBox?.
+
+Se pueden crear máquinas virtuales tanto de 32 bits como de 64 bits.
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+Un hipervisor, conocido también como monitor de máquina virtual (VMM), es un software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas.
+
+El hipervisor utiliza los recursos, como la CPU, la memoria y el almacenamiento, como un conjunto de medios que pueden redistribuirse fácilmente entre los guests actuales o en las máquinas virtuales nuevas.
+
+El hipervisor proporciona a cada máquina virtual los recursos que se le habían asignado, y gestiona la programación de ellos en función de los recursos físicos.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+No afecta, ya que las dos están encapsuladas en su propia instancia. En caso de presentarse algún error o problema en alguna de las máquinas, este será solamente en la máquina que se esté trabajando, no afecta a las demás.

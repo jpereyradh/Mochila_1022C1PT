@@ -1,0 +1,25 @@
+Red Hat Linux
+
+1. Descripción del OS:
+	Red Hat fue una distribución Linux creada por Red Hat, que llegó a ser una de las más populares en los entornos de usuarios domésticos hasta 22 de Septiembre de 2003 cuando los proyectos Fedora y Red Hat se fusionaron.
+Su lanzamiento inicial fue el 13 de mayo de 1995 y es un software de código abierto. Poseía un núcleo Linux y el tipo de núcleo era monolítico. La última versión estable fue la 9, lanzada el 31 de marzo de 2003, y actualmente se encuentra descontinuado.
+
+2. ¿Es open source o con licencia?
+	Es Open source
+
+3.¿Cuales son los recursos de hardware que tiene la MV?
+
+- 1 GHz 1 o más nucleos, hardware compatible solo con Intel x86.
+- Por lo menos 1 GB de Ram
+- Mínimo 1 GB de disco duro
+
+4. ¿Cómo se accede a la ventana de comandos?
+	 Menú principal => Herramientas del sistema => Terminal. También puede arrancar un intérprete de comandos haciendo click con el botón derecho en el escritorio y seleccionando Nuevo Terminal desde el menú.
+
+5. ¿Puedo instalar aplicaciones?¿Por que?
+	Si, dado que Red Hat Enterprise Linux 8 introduce el concepto de Application Streams - versiones de componentes del espacio de usuario. Ahora se entregan y actualizan múltiples versiones de estos componentes con más frecuencia que los paquetes del sistema operativo principal. Esto proporciona una mayor flexibilidad para personalizar Red Hat Enterprise Linux sin afectar a la estabilidad subyacente de la plataforma o a implementaciones específicas.
+
+6. ¿Hay juegos instalados?
+	No trae juegos instalados
+
+7. Capturar una imagen del file explorer (ejemplo)
