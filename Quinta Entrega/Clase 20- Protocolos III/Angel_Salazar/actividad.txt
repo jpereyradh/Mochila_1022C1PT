@@ -1,0 +1,32 @@
+NAVEGADOR SIN VPN...IP:
+
+191.112.57.21
+
+NAVEGADOR CON VPN...IP:
+
+77.111.246.13 wichita, hutchinson
+
+NAVEGADOR TOR:
+
+185.243.218.46 Netherlands, noord-hollands.
+
+VIDEO CON VPN ---> FUNCIONA
+VIDEO SIN VPN ---> NO FUNCIONA
+
+Sucedio ya que el video tenia una restriccion regional, la cual puede ser visto especificamente en algunas regiones.
+
+si, pudo ser localizada, pero al otro extremo del mundo
+
+--------VELOCIDADES------
+
+OPERA VPN v5mbps ^0mbps 188ms
+
+OPERA SIN VPN v800mbps ^930mbps 4ms
+
+TOR v0.5 mpbs ^1.86mbps 1010ms
+
+Las velocidades son distintas ya que cada navegador tiene sus propias caracteristicas para redireccionar las redes y el enroutamiento.
+El valor del ping es el tiempo en que un paquete(dato) logra ser enviado y recibido
+Si varia mucho entre las diferentes opciones, ya que cada navegador utiliza distintos camino (servidores/puertos/routers/etc) para poder llegar a un punto, esto hace que el camino sea mas "largo" o mas "corto", es decir, que el tiempo de respuesta sea mayor o menor.
+
+
