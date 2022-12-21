@@ -1,0 +1,11 @@
+-clonar directorio con token:
+
+git clone https://usuariolocal:token@github.com/usuariodelrepo/repositorio.git
+
+-crear y posicionarse en nueva rama:
+
+git checkout -b rama
+
+-push en la rama de repositorio remoto:
+
+git push origin rama

@@ -1,0 +1,5 @@
+ip local: 192.168.1.83
+ip pública: 186.106.251.101
+máscara subred: 255.255.255.0
+ambas IPs son del protocolo ipv4
+información de la mac: Hon Hai Precision Ind. Co.,Ltd.

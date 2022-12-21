@@ -1,0 +1,44 @@
+Gama baja
+
+core i3 7100
+socket LGA1151 
+motherboard MSI H110M Pro-VD Plus DIMM LGA 1151
+Ram 8gb DDR4 2400 Mhz
+Disco Duro Sata 1TB 3.5?
+
+
+Ryzen 3 2200g
+socket AM4
+A320M-A PRO MAX
+Ram 8gb DDR4 2933 Mhz
+Disco Duro Sata 1TB 3.5?
+
+Ryzen 3 3200g
+socket AM4
+Gigabyte GA-A320M-S2H V2 
+Ram 8gb DDR4 2933 Mhz
+Disco Duro Sata 1TB 3.5?
+
+
+Gama media
+
+
+Intel Core i5-3330
+ASRock B75 Pro3-M
+Ram 2x8gb  DDR3 1333 
+Geforce GT 1030
+Disco Duro 256GB Adata ASU650 SSD 2.5 3d ASU650SS-256GT-R
+
+
+AMD Ryzen 5 3500X
+A3200M asrock
+Ram 2x8gb  DDR4 2200 Mhz
+Geforce RTX 1050
+Disco Duro 256GB Adata ASU650 SSD 2.5 3d ASU650SS-256GT-R
+
+
+Intel Core i5-11400F
+ASUS TUF Gaming Z590-Plus WiFi
+NVIDIA GeForce RTX 2070
+Ram 2x8gb DDR4 3200 Mhz
+Disco Duro 256GB Adata ASU650 SSD 2.5 3d ASU650SS-256GT-R

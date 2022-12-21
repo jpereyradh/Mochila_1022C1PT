@@ -1,0 +1,29 @@
+Lenguaje designado: Ruby
+
+Tipo de ejecución: interpretado
+
+Tipo de desarrollos usualmente utilizado: desarrollo WEB
+
+Con que IDE o editor se puede utilizar el lenguaje: el más popular es Visual Studio CODE
+						    y el framework más famoso es RubyOnRails.
+
+Sintaxis: 
+	x = 4
+	y = 5 
+	z = x + y 
+
+Leguaje designado: NodeJs
+
+Tipo de ejecución: nodeJs compila javascript por el lado del servidor.
+
+Tipo de desarrollos usualmente utilizado: desarrollo WEB
+
+Con que IDE o editor se puede utilizar el lenguaje: el más popular es Visual Studio CODE y IntelliJ IDEA de JetBrains
+						    y el framework más utilizado es el propio NodeJs
+
+
+
+Sintaxis: 
+	const x = 4;
+	const y = 5; 
+	const z = x + y;
