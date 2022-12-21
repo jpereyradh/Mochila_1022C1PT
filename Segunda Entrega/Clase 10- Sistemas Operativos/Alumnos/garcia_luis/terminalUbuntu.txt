@@ -1,0 +1,37 @@
+1)
+
+root@tryit-beloved:~# df                                                                                                                            
+Filesystem                                                                     1K-blocks    Used Available Use% Mounted on                          
+/var/snap/lxd/common/lxd/storage-pools/default/containers/tryit-beloved/rootfs 104857600 1399036 101426628   2% /                                   
+none                                                                                 492       4       488   1% /dev                                
+devtmpfs                                                                         1993708       0   1993708   0% /dev/tty                            
+tmpfs                                                                                100       0       100   0% /dev/lxd                            
+tmpfs                                                                                100       0       100   0% /dev/.lxd-mounts                    
+tmpfs                                                                            2010604       0   2010604   0% /dev/shm                            
+tmpfs                                                                             402124       8    402116   1% /run                                
+tmpfs                                                                               5120       0      5120   0% /run/lock                           
+tmpfs                                                                            2010604       0   2010604   0% /sys/fs/cgroup                      
+tmpfs                                                                                100       0       100   0% /var/lib/lxd/shmounts               
+tmpfs                                                                                100       0       100   0% /var/lib/lxd/devlxd                 
+/var/snap/lxd/common/lxd/storage-pools/default/containers/tryit-beloved/rootfs 104857600 1399036 101426628   2% /var/lib/lxd/storage-pools/default  
+
+
+2)
+
+
+top - 23:45:38 up 4 min,  0 users,  load average: 0.00, 0.00, 0.00                                                                                  
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie                                                                                
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st                                                                     
+MiB Mem :    488.3 total,    355.0 free,     33.0 used,    100.3 buff/cache                                                                         
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    455.3 avail Mem                                                                          
+                                                                                                                                                    
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                      
+      1 root      20   0   20616   9708   8132 S   0.0   1.9   0:00.10 systemd                                                                      
+     73 root      20   0 1391540  56064  33968 S   0.0  11.2   0:00.76 lxd                                                                          
+     91 root      20   0   11560   3980   3416 S   0.0   0.8   0:00.00 bash                                                                         
+    156 root      20   0   13400   3696   3196 R   0.0   0.7   0:00.09 top
+
+
+3)
+
+root@tryit-beloved:~# poweroff

@@ -1,0 +1,30 @@
+-¿Qué es un usuario root en linux?
+
+En sistemas operativos del tipo Unix, el superusuario o root es el nombre convencional de la cuenta de usuario que posee todos los derechos en todos los modos (monousuario o multiusuario). Normalmente es la cuenta de administrador. El usuario root puede hacer muchas cosas que un usuario común no puede, tales como cambiar el dueño o permisos de archivos y enlazar a puertos de numeración pequeña. No es recomendable utilizar el superusuario root para una simple sesión de uso habitual, ya que pone en riesgo el sistema al garantizar acceso privilegiado a cada programa en ejecución. Es preferible utilizar una cuenta de usuario normal y utilizar el comando su para acceder a los privilegios de Root en caso de ser necesario.
+
+
+
+-¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+
+En ubuntu por defecto el usuario root está deshabilitado.
+
+
+
+-¿cuales son los procesos típicos de linux?
+
+Los procesos de tipo Daemon corren a nombre de un usuario y no tienen salida directa por una terminal, es decir corren en 2º plano. Generalmente los conocemos como servicios. La gran mayoría de ellos en vez de usar la terminal para escuchar un requerimiento lo hacen a través de un puerto.
+
+
+
+-¿cómo identificarlos?
+
+El nombre de estos servicios, o daemons, terminan con la letra d. Por ejemplo, sshd es el nombre del servicio que maneja SSH.
+
+Su script de arranque se encuentra en carpeta /etc/init.d
+
+
+
+-¿cómo agregar contraseña root a ubuntu?
+
+siguiendo este tutorial:
+https://cxmatias.wordpress.com/2013/07/21/como-agregar-password-clave-a-root-en-ubuntu-linux/

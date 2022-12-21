@@ -1,0 +1,17 @@
+¿Las velocidades son diferentes? ¿Por qué crees que pasa esto?
+
+se debe a que el tráfico pasa a través de distintas redes proxy, lo que realentiza el proceso.
+
+
+
+¿Qué significa el valor del ping?
+
+indica la latencia de la red
+
+
+El valor del ping ¿varia entre las diferentes opciones? ¿Por qué?
+
+
+que existe una mayor latencia en la red debido a que el paquete recorre distintas redes proxy.
+
+
